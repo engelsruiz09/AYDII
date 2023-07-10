@@ -1,0 +1,17 @@
+Ee .
+Escenarios de negociacion
+(stakeholders)
+
+The senior vice president project sponsor is insistent that the new trading
+system must support five nines of availability (9.999%). However, the lead
+architect is convinced, based on research, calculations, and knowledge of
+
+the business domain and technology, that three nines of availability (99.9%)
+would be sufficient. The problem is, the project sponsor does not like to be
+wrong or corrected and really hates people who are condescending. The
+sponsor isn't overly technical (but thinks they are) and as a result tends to
+getinvolved in the nonfunctional aspects of projects. The architect must
+convince the project sponsor through negotiation that three nines (99.9%) of
+availability would be enough.
+
+= | am

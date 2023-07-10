@@ -1,0 +1,12 @@
+i i
+Escenarios de negociacion
+
+(arquitectos)
+
+The lead architect on a project believes that asynchronous messaging would be the right
+approach for communication between a group of services to increase both performance
+and scalability. However, the other architect on the project once again strongly disagrees
+and insists that REST would be a better choice, because REST is always faster than
+messaging and can scale just as well (“see for yourself by Googling it!”). This is not the
+first heated debate between the two architects, nor will it be the last. The lead architect
+must convince the other architect that messaging is the right solution.
